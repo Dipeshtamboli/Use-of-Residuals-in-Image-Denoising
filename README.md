@@ -1,4 +1,4 @@
-<blockquote><p>Course project of the course Digital Image Processing offered by Department of Computer Science taken by the <a href="https://www.cse.iitb.ac.in/~suyash/">Prof. Suyash Awate</a>.</p></blockquote>
+<blockquote><p>Course project of the course <code>Digital Image Processing(CS663)</code> offered by the Department of Computer Science taken by the <a href="https://www.cse.iitb.ac.in/~suyash/">Prof. Suyash Awate</a>.</p></blockquote>
 
 In this project, residual image is being used for denoising application.
 
@@ -21,6 +21,6 @@ height:40px;">[Link to the report](https://dipeshtamboli.github.io/docs/image_de
 Team Members:
 <li><a href="https://github.com/ameyanjarlekar">Amey Anjarlekar</a></li>
 <li><a href="https://github.com/AtharvPawar">Atharv Pawar</a></li>
-<li><a href="dipeshtamboli.github.io">Dipesh Tamboli</a></li>
+<li><a href="https://dipeshtamboli.github.io">Dipesh Tamboli</a></li>
 
 
