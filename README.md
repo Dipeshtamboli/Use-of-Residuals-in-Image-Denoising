@@ -1,13 +1,3 @@
----
-layout: post
-title:  "Use of Residuals in Image Denoising"
-date:   2019-11-25 13:46:52
-comments: false
-project: true
-image: /images/denoising/dip.png
-categories: jekyll update
----
-
 <blockquote><p>Course project of the course Digital Image Processing offered by Department of Computer Science taken by the <a href="https://www.cse.iitb.ac.in/~suyash/">Prof. Suyash Awate</a>.</p></blockquote>
 
 In this project, residual image is being used for denoising application.
@@ -28,8 +18,9 @@ Intuitively, it would be an image containing all the noise and other components 
 <button style="background-color:black;color:white;width:200px;
 height:40px;">[Link to the report](https://dipeshtamboli.github.io/docs/image_denoising/Use_of_Residuals_in_Image_Denoising.pdf)</button>
 
-Teammates:
-<li>Amey Anjarlekar</li>
-<li>Atharv Pawar</li>
+Team Members:
+<li><a href="https://github.com/ameyanjarlekar">Amey Anjarlekar</a></li>
+<li><a href="https://github.com/AtharvPawar">Atharv Pawar</a></li>
+<li><a href="dipeshtamboli.github.io">Dipesh Tamboli</a></li>
 
 
